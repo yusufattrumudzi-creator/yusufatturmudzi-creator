@@ -1,2 +1,0 @@
-# yusufatturmudzi-creator
-script.js
